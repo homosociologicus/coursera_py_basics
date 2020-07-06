@@ -1,2 +1,2 @@
 # coursera_py_basics
-Scripts from a Coursera's course 'Основы программирования на Python'.
+Short scripts from a Coursera's course 'Основы программирования на Python'. Little bit of cheating included:)
